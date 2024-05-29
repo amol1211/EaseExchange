@@ -25,7 +25,7 @@ Base and target currencies are set as USD($) and INR(₹), however, users can al
 ## 📋 Requirements & Resources
 
 - 🔑 Flag API - https://flagsapi.com/
-  - 🎨 Icon link - https://fontawesome.com/icons
+- 🎨 Icon link - https://fontawesome.com/icons
 - 🌐 Currency converter API - https://github.com/fawazahmed0/currency-api
 
 ## 🚀 Prerequisites
